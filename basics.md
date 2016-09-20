@@ -9,3 +9,8 @@ the repository
 file(s)
 * `git log` - show log
 * DIFFERENCE
+* `git push <remote> <branch> - send changes in local repository to a remote repository branch
+* `git pull <remote> <branch> - get changes from remote repository into local repository
+
+Forking a repository: Create a complete copy of an existing Github rep to enable colaboration or 
+stealing
