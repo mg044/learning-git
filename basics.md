@@ -8,4 +8,4 @@ the repository
 * `git diff` - shows difference between repository and unadded local 
 file(s)
 * `git log` - show log
-*
+* DIFFERENCE
